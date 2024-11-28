@@ -1,14 +1,14 @@
 # enpy.com
 
-**enpy.com** is a versatile tool and service for creating essential network solutions and server configurations. Our platform is focused on providing seamless, customizable services to support secure connections, efficient routing, and effective server management. Below is an overview of what enpy.com offers:
+**enpy.com** is a versatile tool and service for creating essential network solutions and server configurations. Our platform is focused on providing seamless, customizable services to support secure connections, efficient rooting, and effective server management. Below is an overview of what enpy.com offers:
 
 ## Features
 
 - **SSL Certificate Generation**  
   enpy.com allows users to create SSL certificates tailored to their specific needs. We support certificates in various encryption strengths and formats, including RSA with 3072-bit encryption. Certificates can be customized with details such as hostnames, emails, and expiration dates.
 
-- **Routing and Folder Management**  
-  With enpy.com, managing routes and organizing files is simplified. We provide routing solutions that can organize folders and files based on user-defined rules, improving efficiency and access control.
+- **Rooting and Folder Management**  
+  With enpy.com, managing rooting and organizing files is simplified. We provide rooting solutions that can organize folders and files based on user-defined rules, improving efficiency and access control.
 
 - **DNS Servers in Python**  
   Our platform offers Python-based DNS server creation, enabling users to set up DNS configurations tailored to their network requirements. Our DNS servers support various customization options to ensure compatibility and efficiency within different network environments.
