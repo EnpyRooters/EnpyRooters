@@ -1,8 +1,0 @@
----
-
-Warning:
-This routing file is only compatible with Android 11 running on devices with the ARM architecture, including ARM64 and ARM. If you plan to use this routing file on a device that does not meet these requirements, it may not function as intended.
-For other devices, we recommend using Magisk to ensure proper functionality and compatibility.
-
-
----
