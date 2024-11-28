@@ -21,7 +21,7 @@
 
 ## Getting Started
 
-To get started with enpy.com, you can clone our repository and follow the documentation provided for each service. Each feature is designed to be modular, so you can implement just what you need or combine multiple services for a complete network solution.
+To get started with enpy.com, you can follow the documentation provided for each service. Each feature is designed to be modular, so you can implement just what you need or combine multiple services for a complete network solution.
 
 ## Contact
 
